@@ -30,7 +30,7 @@ export const Home = () => {
 
 	useEffect(() => {
 		loadMessage()
-		console.log("home page rendered")
+		console.log("home page rendered!")
 	}, [])
 
 	return (
